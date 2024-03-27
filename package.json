@@ -34,7 +34,7 @@
     "node-swt": "0.x",
     "node-wsfederation": "0.x",
     "debug": "0.x",
-    "express": "3.x"
+    "express": "4.19.2"
   },
   "devDependencies": {
     "jade": "0.x",
